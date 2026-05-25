@@ -338,6 +338,5 @@ If you found this project useful:
 * Share it with others
 * Contribute to improve it
 
-AI Interview Automation
 String Processing
 Report Generation
