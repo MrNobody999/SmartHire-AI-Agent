@@ -212,7 +212,7 @@ This class is responsible for:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SmartHire-AI-Agent.git
+git clone https://github.com/MrNobody999/SmartHire-AI-Agent.git
 ```
 
 ---
